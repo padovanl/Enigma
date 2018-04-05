@@ -1,0 +1,30 @@
+C:\Users\Utente\Desktop\Simulatore di Enigma\Simulatore di Enigma\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Utente\Desktop\Simulatore di Enigma\Simulatore di Enigma\obj\Debug\Simulatore_di_Enigma.Form1.resources
+C:\Users\Utente\Desktop\Simulatore di Enigma\Simulatore di Enigma\obj\Debug\Simulatore_di_Enigma.Properties.Resources.resources
+C:\Users\Utente\Desktop\Simulatore di Enigma\Simulatore di Enigma\obj\Debug\Simulatore di Enigma.csproj.GenerateResource.Cache
+C:\Users\Utente\Desktop\Simulatore di Enigma\Simulatore di Enigma\bin\Debug\Simulatore di Enigma.exe
+C:\Users\Utente\Desktop\Simulatore di Enigma\Simulatore di Enigma\bin\Debug\Simulatore di Enigma.pdb
+C:\Users\Utente\Desktop\Simulatore di Enigma\Simulatore di Enigma\obj\Debug\Simulatore di Enigma.exe
+C:\Users\Utente\Desktop\Simulatore di Enigma\Simulatore di Enigma\obj\Debug\Simulatore di Enigma.pdb
+C:\Users\Utente\Desktop\Simulatore di Enigma - Copia\Simulatore di Enigma\obj\Debug\Simulatore di Enigma.exe
+C:\Users\Utente\Desktop\Simulatore di Enigma - Copia\Simulatore di Enigma\obj\Debug\Simulatore di Enigma.pdb
+C:\Users\Utente\Desktop\Simulatore di Enigma - Copia\Simulatore di Enigma\bin\Debug\Simulatore di Enigma.exe
+C:\Users\Utente\Desktop\Simulatore di Enigma - Copia\Simulatore di Enigma\bin\Debug\Simulatore di Enigma.pdb
+C:\Users\Utente\Desktop\Simulatore di Enigma - Copia\Simulatore di Enigma\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Utente\Desktop\Simulatore di Enigma - Copia\Simulatore di Enigma\obj\Debug\Simulatore_di_Enigma.Form1.resources
+C:\Users\Utente\Desktop\Simulatore di Enigma - Copia\Simulatore di Enigma\obj\Debug\Simulatore_di_Enigma.Properties.Resources.resources
+C:\Users\Utente\Desktop\Simulatore di Enigma - Copia\Simulatore di Enigma\obj\Debug\Simulatore di Enigma.csproj.GenerateResource.Cache
+C:\Users\Utente\Desktop\Simulatore di Enigma\Simulatore di Enigma\obj\Debug\Simulatore_di_Enigma.Impostazioni.resources
+C:\Users\Utente\Desktop\Simulatore di Enigma\Simulatore di Enigma\obj\Debug\Simulatore_di_Enigma.Informazioni.resources
+C:\Users\Utente\Desktop\tesina\Simulatore di Enigma\Simulatore di Enigma\obj\Debug\Simulatore di Enigma.exe
+C:\Users\Utente\Desktop\tesina\Simulatore di Enigma\Simulatore di Enigma\obj\Debug\Simulatore di Enigma.pdb
+C:\Users\Utente\Desktop\tesina\Simulatore di Enigma\Simulatore di Enigma\bin\Debug\Simulatore di Enigma.exe
+C:\Users\Utente\Desktop\tesina\Simulatore di Enigma\Simulatore di Enigma\bin\Debug\Simulatore di Enigma.pdb
+C:\Users\Utente\Desktop\tesina\Simulatore di Enigma\Simulatore di Enigma\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Utente\Desktop\tesina\Simulatore di Enigma\Simulatore di Enigma\obj\Debug\Simulatore_di_Enigma.Form1.resources
+C:\Users\Utente\Desktop\tesina\Simulatore di Enigma\Simulatore di Enigma\obj\Debug\Simulatore_di_Enigma.Impostazioni.resources
+C:\Users\Utente\Desktop\tesina\Simulatore di Enigma\Simulatore di Enigma\obj\Debug\Simulatore_di_Enigma.Informazioni.resources
+C:\Users\Utente\Desktop\tesina\Simulatore di Enigma\Simulatore di Enigma\obj\Debug\Simulatore_di_Enigma.Properties.Resources.resources
+C:\Users\Utente\Desktop\tesina\Simulatore di Enigma\Simulatore di Enigma\obj\Debug\Simulatore di Enigma.csproj.GenerateResource.Cache
+E:\tesina\Simulatore di Enigma\Simulatore di Enigma\obj\Debug\Simulatore di Enigma.exe
+E:\tesina\Simulatore di Enigma\Simulatore di Enigma\obj\Debug\Simulatore di Enigma.pdb
